@@ -117,3 +117,5 @@ Check out [our documentation](https://docs.astro.build) or jump into our [Discor
 ## License
 
 Licensed under the [GPL-3.0](https://github.com/JustGoodUI/dante-astro-theme/blob/main/LICENSE) license.
+
+Trigger deploy
